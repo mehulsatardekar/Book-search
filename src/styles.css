@@ -1,0 +1,35 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+
+.genre-btns {
+  margin: 43px 12px 43px 12px;
+  padding: 3px 0px 43px 0px;
+  border-bottom: 1px black solid;
+}
+
+button {
+  padding: 13px 13px 13px 13px;
+  margin: 13px 12px 13px 12px;
+  border: 1px purple solid;
+  border-radius: 5px;
+  background-color: rgb(224, 98, 203);
+  color: white;
+}
+
+.container {
+  display: flex;
+}
+.card {
+  border: 2px black solid;
+  margin: 0px 2px 0px 2px;
+  flex: 2;
+  background-color: rgb(216, 214, 214);
+  padding: 12px 12px 12px 12px;
+}
+
+p {
+  font-size: 23px;
+  font-weight: bold;
+}
